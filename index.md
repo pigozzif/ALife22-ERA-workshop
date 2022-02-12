@@ -55,7 +55,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 ## Important Dates
 
-- ALife conference: July 18-22, 2022
+- ALife conference: July 18-22, 2022 (virtual)
 - Workshop: TBA
 - Social event: TBA
 
