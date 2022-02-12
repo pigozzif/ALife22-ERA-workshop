@@ -59,7 +59,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 ## Organizers
 
-Follow us on [Twitter](https://twitter.com/ISALstudents)!
+Follow us on [Twitter](https://twitter.com/ISALstudents) or [Slack](https://isalstudents.slack.com/ssb/redirect)!
 
 - Federico Pigozzi
 - Imran Khan
