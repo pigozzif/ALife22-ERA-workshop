@@ -51,6 +51,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 | Time Slot | Speaker |
 |---|---|
+| 0 | You! |
 
 ## Important Dates
 
