@@ -27,7 +27,7 @@ We give an inclusive definition of “emerging researchers”: anybody seeing he
   - An entertaining improvisational social activity, contributed on a voluntary basis. Participants prove their banter skills by following a (random) ALife-related slideshow and improvising a presentation on top of them. The slideshow is a salad bowl of material presented at the broader conference. Last year’s academic karaoke featured participants making unexpected connections across ALife's many disciplines, as well as much laughter.
   - [**Sign up for academic karaoke below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
 
-## Sign up for a research lightning talk or to participate in academic karaoke by emailing us at pigozzife@gmail.com!**
+## Sign up for a research lightning talk or to participate in academic karaoke by emailing us at pigozzife@gmail.com!
 
 You do not need to commit to a topic for your lightning talk in order to sign up for a speaking slot.
 We don't need to know your topic until you present!
