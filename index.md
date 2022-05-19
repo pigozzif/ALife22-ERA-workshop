@@ -18,13 +18,11 @@ We give an inclusive definition of “emerging researchers”: anybody seeing th
   - A research talk from the recipient of the 2022 Outstanding Student Paper award. Pending timely nomination from ISAL.
 - **Research lightning talks** (30-45 minutes)
   - Short presentations (5-10 minutes each, followed by questions). Speakers introduce themselves and their research activity; topics include, but are not limited to, anything falling within the scope of the broader conference. The goal is to put the spotlight on the speaker and to spread awareness about their research activity---at any stage of development.
-  - [**Sign up for a lightning talk slot below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
 
 ### Social event
 
 - **Academic karaoke** (30-40 minutes)
   - An entertaining social activity, contributed on a voluntary basis. Participants prove their banter skills by following a (random) ALife-related slideshow and improvising a presentation on top of them. The slideshow is a salad bowl of material presented at the broader conference. Last year’s academic karaoke featured participants making unexpected connections across ALife's many disciplines, as well as much laughter.
-  - [**Sign up for academic karaoke below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
 
 ## Sign up for a research lightning talk or to participate in academic karaoke by emailing us at pigozzife@gmail.com!
 
