@@ -24,7 +24,9 @@ We give an inclusive definition of “emerging researchers”: anybody seeing th
 - **Academic karaoke** (30-40 minutes)
   - An entertaining social activity. Participants prove their banter skills by improvising a presentation on top of a (random) ALife-related slideshow. The slideshow is a salad bowl of material presented at the broader conference. Last year’s academic karaoke featured participants making unexpected connections across ALife's many disciplines, as well as much laughter.
 
-## Sign up for a research lightning talk or to participate in academic karaoke by emailing us at pigozzife@gmail.com!
+## Registration
+
+**Sign up for a research lightning talk or to participate in academic karaoke by emailing us at pigozzife@gmail.com**
 
 You do not need to commit to a topic for your lightning talk in order to sign up.
 If you do know what you'd like to talk about, however, we'll post the topic/description here.
