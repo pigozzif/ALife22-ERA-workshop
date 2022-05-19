@@ -39,6 +39,8 @@ We will be accepting sign-ups up until the time of the workshop or until all slo
 
 If you have any questions feel free to email us (or, file [an issue on GitHub](https://github.com/pigozzif/ALife22-ERA-workshop/issues) if that's your jam).
 
+**In order to attend the workshop, participants are not required to register or pay a fee. Just send us an email :)**
+
 ### Lightning talks
 
 | Time Slot | Speaker | Topic | Contact |
@@ -64,3 +66,7 @@ Follow us on [Twitter](https://twitter.com/ISALstudents) or [Slack](https://isal
 - Federico Pigozzi
 - Imran Khan
 - Abraham J. Leite
+
+## Acknowledgments
+
+We thank the 2020-2021 board for providing the template for this page!
