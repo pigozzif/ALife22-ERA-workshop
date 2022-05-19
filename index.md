@@ -6,7 +6,7 @@ This workshop will be held as part of the (virtual) [2022 Conference on Artifici
 The goal of this workshop is to provide a venue for emerging researchers to meet, share their work, and network.
 Additionally, there will be an ERA-sponsored social event outside of conference hours, offering a space to have fun and socialize within the broader conference.
 
-We give an inclusive definition of “emerging researchers”: anybody seeing themselves as such fits into the category. These mostly include, but are not limited to, PhD students, Post-Doc researchers, and independent researchers.
+We give an inclusive definition of “emerging researchers”: anybody seeing themselves as such fits into the category. These mostly include, but are not limited to, PhD students, Post-Doc researchers, independent researchers, and undergraduates.
 
 ## Schedule
 
