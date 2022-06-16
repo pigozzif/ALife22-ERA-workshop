@@ -42,7 +42,7 @@ If you have any questions feel free to email us.
 
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
-| 0 | You! | TBD | TBD |
+| 0 | Atoosa Parsa (University of Vermont) | Evolving Computational Granular Metamaterials | Atoosa.Parsa@uvm.edu |
 
 ### Academic Karaoke
 
