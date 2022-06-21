@@ -43,7 +43,8 @@ If you have any questions feel free to email us.
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
 | 0 | Atoosa Parsa (University of Vermont) | Evolving Computational Granular Metamaterials | Atoosa.Parsa@uvm.edu |
-| 1 | You!                                 | TBD                                           | TBD                  |
+| 1 | Georgina Montserrat Reséndiz-Benhumea (UNAM) | Initial Steps toward the Development of Minimal Affectivity-in-Collectivity (AiC) Models under a 4E Cognition Perspective | gmontserb@comunidad.unam.mx |
+| 2 | You!                                 | TBD                                           | TBD                  |
 
 ### Academic Karaoke
 
