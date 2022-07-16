@@ -45,7 +45,8 @@ If you have any questions feel free to email us.
 | 0 | Atoosa Parsa (University of Vermont) | Evolving Computational Granular Metamaterials | Atoosa.Parsa@uvm.edu |
 | 1 | Georgina Montserrat Reséndiz-Benhumea (UNAM) | Initial Steps toward the Development of Minimal Affectivity-in-Collectivity (AiC) Models under a 4E Cognition Perspective | gmontserb@comunidad.unam.mx |
 | 2 | Fernando Rodriguez | Is phenomenological experience a cognitive phenomenon? | ferodriguezv@gmail.com |
-| 3 | You!                                 | TBD                                           | TBD                  |
+| 3 | Stavros Anagnou | Towards an Emotional Model of Social Norms | S.anagnou@herts.ac.uk |
+| 4 | You!                                 | TBD                                           | TBD                  |
 
 ### Academic Karaoke
 
