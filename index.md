@@ -58,8 +58,8 @@ If you have any questions feel free to email us.
 ## Important Dates
 
 - ALife conference: July 18-22, 2022 (virtual)
-- Workshop: TBA
-- Social event: TBA
+- Workshop: July 18, 14.00 - 15.30 CEST
+- Social event: July 21, 18.00 - 19.30 CEST
 
 ## Organizers
 
